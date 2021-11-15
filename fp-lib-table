@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name nice-nano-kicad)(type KiCad)(uri ${KIPRJMOD}/nice-nano-kicad)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
+)
