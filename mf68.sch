@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title ""
 Date ""
 Rev ""
@@ -24,15 +24,10 @@ F 3 "" V 3200 400 60  0001 C CNN
 	1    2150 2900
 	1    0    0    -1  
 $EndComp
-$Comp
-L keebio:MX SW1
-U 1 1 6192757C
-P 3650 2550
-F 0 "SW1" H 3650 2773 50  0000 C CNN
-F 1 "MX" H 3650 2250 60  0001 C CNN
-F 2 "Keebio-Parts:MX-Alps-Choc-1U" H 3650 2550 60  0001 C CNN
-F 3 "" H 3650 2550 60  0001 C CNN
-	1    3650 2550
-	1    0    0    -1  
-$EndComp
+$Sheet
+S 3950 2050 2750 1350
+U 6194AF7C
+F0 "matrix" 50
+F1 "matrix.sch" 50
+$EndSheet
 $EndSCHEMATC
