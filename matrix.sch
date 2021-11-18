@@ -13,17 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L Device:D D1
-U 1 1 6194C903
-P 1850 2050
-F 0 "D1" V 1850 1970 50  0000 R CNN
-F 1 "D" V 1805 1970 50  0001 R CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal" H 1850 2050 50  0001 C CNN
-F 3 "~" H 1850 2050 50  0001 C CNN
-	1    1850 2050
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	1850 2200 2350 2200
 Connection ~ 2250 1900
@@ -1851,4 +1840,15 @@ Connection ~ 4350 5200
 Wire Wire Line
 	4750 4150 4750 4900
 Connection ~ 4750 4150
+$Comp
+L Device:D D1
+U 1 1 6194C903
+P 1850 2050
+F 0 "D1" V 1850 1970 50  0000 R CNN
+F 1 "D" V 1805 1970 50  0001 R CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal" H 1850 2050 50  0001 C CNN
+F 3 "~" H 1850 2050 50  0001 C CNN
+	1    1850 2050
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC

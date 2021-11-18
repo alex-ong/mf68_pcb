@@ -13,17 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L Device:D D1
-U 1 1 6194C903
-P 1850 2050
-F 0 "D1" V 1850 1970 50  0000 R CNN
-F 1 "D" V 1805 1970 50  0001 R CNN
-F 2 "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal" H 1850 2050 50  0001 C CNN
-F 3 "~" H 1850 2050 50  0001 C CNN
-	1    1850 2050
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	1850 2200 2350 2200
 Connection ~ 2250 1900
@@ -1660,7 +1649,7 @@ U 1 1 61A1E489
 P 6550 4900
 F 0 "K62" H 6550 5150 50  0000 C CNN
 F 1 "DOWN" H 6550 5044 50  0000 C CNN
-F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 6550 4900 50  0001 C CNN
+F 2 "xeal_components:MX-Alps-Choc-1U-NoLED-PinSwap" H 6550 4900 50  0001 C CNN
 F 3 "~" H 6550 4900 50  0001 C CNN
 	1    6550 4900
 	1    0    0    -1  
@@ -1685,7 +1674,7 @@ U 1 1 61A1E4A1
 P 7050 4900
 F 0 "K63" H 7050 5150 50  0000 C CNN
 F 1 "RIGHT" H 7050 5044 50  0000 C CNN
-F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 7050 4900 50  0001 C CNN
+F 2 "xeal_components:MX-Alps-Choc-1U-NoLED-PinSwap" H 7050 4900 50  0001 C CNN
 F 3 "~" H 7050 4900 50  0001 C CNN
 	1    7050 4900
 	1    0    0    -1  
@@ -1814,7 +1803,7 @@ U 1 1 61B42073
 P 6050 4900
 F 0 "K61" H 6050 5150 50  0000 C CNN
 F 1 "LEFT" H 6050 5044 50  0000 C CNN
-F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 6050 4900 50  0001 C CNN
+F 2 "xeal_components:MX-Alps-Choc-1U-NoLED-PinSwap" H 6050 4900 50  0001 C CNN
 F 3 "~" H 6050 4900 50  0001 C CNN
 	1    6050 4900
 	1    0    0    -1  
@@ -1851,4 +1840,15 @@ Connection ~ 4350 5200
 Wire Wire Line
 	4750 4150 4750 4900
 Connection ~ 4750 4150
+$Comp
+L Device:D D1
+U 1 1 6194C903
+P 1850 2050
+F 0 "D1" V 1850 1970 50  0000 R CNN
+F 1 "D" V 1805 1970 50  0001 R CNN
+F 2 "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal" H 1850 2050 50  0001 C CNN
+F 3 "~" H 1850 2050 50  0001 C CNN
+	1    1850 2050
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
