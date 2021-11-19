@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 24)
+    (drawings 26)
     (tracks 1320)
     (zones 0)
     (modules 133)
@@ -1148,7 +1148,7 @@
   (module xeal_components:SS12D00 (layer F.Cu) (tedit 6196E6EC) (tstamp 61977DD7)
     (at 328.1792 107.7684)
     (path /619FA1F3)
-    (fp_text reference POWER_SW1 (at 0 3.1) (layer F.SilkS)
+    (fp_text reference POWER_SW1 (at 0 -2.7684) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_SPDT (at 0 -3.1) (layer F.Fab)
@@ -6241,6 +6241,12 @@
     )
   )
 
+  (gr_text Off (at 326 111.6) (layer F.SilkS) (tstamp 619D2539)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text On (at 330 111.6) (layer F.SilkS) (tstamp 619D2538)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_arc (start 35.3039 62.5275) (end 35.3039 60.1464) (angle -90) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 32.9228 153.0093) (end 32.9228 62.5275) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 35.3039 60.1464) (end 338.4973 60.1464) (layer Edge.Cuts) (width 0.1))
