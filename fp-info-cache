@@ -1,4 +1,4 @@
-19643345256111596
+19648257308147229
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -84794,6 +84794,27 @@ xeal_components
 D_DO-34_SOD68_P10.16mm_Horizontal_NoK
 Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
 Diode DO-34_SOD68 series Axial Horizontal pin pitch 10.16mm  length 3.04mm diameter 1.6mm
+0
+2
+2
+xeal_components
+Kailh-PG1350-1uCutout
+
+
+0
+4
+4
+xeal_components
+Kailh-PG1350-2uCutout
+
+
+0
+2
+2
+xeal_components
+Kailh-PG1350-2uCutoutFlipped
+
+
 0
 2
 2
