@@ -1,4 +1,4 @@
-19635158306446141
+19643345256111596
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -84798,13 +84798,6 @@ Diode DO-34_SOD68 series Axial Horizontal pin pitch 10.16mm  length 3.04mm diame
 2
 2
 xeal_components
-MX-Alps-Choc-1U-NoLED-PinSwap
-
-
-0
-6
-2
-xeal_components
 MX-Alps-Choc-2U-no-led
 
 
@@ -84812,7 +84805,28 @@ MX-Alps-Choc-2U-no-led
 4
 2
 xeal_components
+MX-Alps-Choc-2U-no-led-stabflip
+
+
+0
+4
+2
+xeal_components
 MX-Alps-Choc-2U-pin-flip
+
+
+0
+4
+2
+xeal_components
+MX-Alps-Choc-2U-stabflip-pinflip
+
+
+0
+4
+2
+xeal_components
+MX-Choc-1.5U
 
 
 0
@@ -84832,3 +84846,24 @@ MX-Choc-1U-pin-flip
 0
 4
 2
+xeal_components
+MX-Choc-2.5U-pin12
+
+
+0
+4
+2
+xeal_components
+MX-Choc-2.5U-pin21
+
+
+0
+4
+2
+xeal_components
+SS12D00
+
+
+0
+3
+3

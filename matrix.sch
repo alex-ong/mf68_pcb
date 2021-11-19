@@ -387,7 +387,7 @@ U 1 1 6198FB91
 P 2050 2650
 F 0 "K14" H 2050 2900 50  0000 C CNN
 F 1 "TAB" H 2050 2794 50  0000 C CNN
-F 2 "xeal_components:MX-Choc-1U" H 2050 2650 50  0001 C CNN
+F 2 "xeal_components:MX-Choc-1.5U" H 2050 2650 50  0001 C CNN
 F 3 "~" H 2050 2650 50  0001 C CNN
 	1    2050 2650
 	1    0    0    -1  
@@ -752,7 +752,7 @@ U 1 1 619B9491
 P 2050 3400
 F 0 "K27" H 2050 3650 50  0000 C CNN
 F 1 "CAPS" H 2050 3544 50  0000 C CNN
-F 2 "xeal_components:MX-Choc-1U" H 2050 3400 50  0001 C CNN
+F 2 "xeal_components:MX-Alps-Choc-2U-pin-flip" H 2050 3400 50  0001 C CNN
 F 3 "~" H 2050 3400 50  0001 C CNN
 	1    2050 3400
 	1    0    0    -1  
@@ -1091,7 +1091,7 @@ U 1 1 619B95FB
 P 2050 4150
 F 0 "K40" H 2050 4400 50  0000 C CNN
 F 1 "LSHIFT" H 2050 4294 50  0000 C CNN
-F 2 "xeal_components:MX-Alps-Choc-2U-pin-flip" H 2050 4150 50  0001 C CNN
+F 2 "xeal_components:MX-Choc-2.5U-pin21" H 2050 4150 50  0001 C CNN
 F 3 "~" H 2050 4150 50  0001 C CNN
 	1    2050 4150
 	1    0    0    -1  
@@ -1372,7 +1372,7 @@ U 1 1 619B9700
 P 7550 4150
 F 0 "K51" H 7550 4400 50  0000 C CNN
 F 1 "RSHIFT" H 7550 4294 50  0000 C CNN
-F 2 "xeal_components:MX-Choc-1U" H 7550 4150 50  0001 C CNN
+F 2 "xeal_components:MX-Choc-1.5U" H 7550 4150 50  0001 C CNN
 F 3 "~" H 7550 4150 50  0001 C CNN
 	1    7550 4150
 	1    0    0    -1  
@@ -1397,7 +1397,7 @@ U 1 1 619B9719
 P 8050 4150
 F 0 "K52" H 8050 4400 50  0000 C CNN
 F 1 "BACKSLASH" H 8050 4294 50  0000 C CNN
-F 2 "xeal_components:MX-Choc-1U" H 8050 4150 50  0001 C CNN
+F 2 "xeal_components:MX-Choc-1.5U" H 8050 4150 50  0001 C CNN
 F 3 "~" H 8050 4150 50  0001 C CNN
 	1    8050 4150
 	1    0    0    -1  
@@ -1479,7 +1479,7 @@ U 1 1 61A1E3B3
 P 2050 4900
 F 0 "K53" H 2050 5150 50  0000 C CNN
 F 1 "LCTL" H 2050 5044 50  0000 C CNN
-F 2 "xeal_components:MX-Choc-1U" H 2050 4900 50  0001 C CNN
+F 2 "xeal_components:MX-Choc-1.5U" H 2050 4900 50  0001 C CNN
 F 3 "~" H 2050 4900 50  0001 C CNN
 	1    2050 4900
 	1    0    0    -1  
@@ -1503,7 +1503,7 @@ U 1 1 61A1E3CA
 P 2550 4900
 F 0 "K54" H 2550 5150 50  0000 C CNN
 F 1 "LGUI" H 2550 5044 50  0000 C CNN
-F 2 "xeal_components:MX-Choc-1U" H 2550 4900 50  0001 C CNN
+F 2 "xeal_components:MX-Choc-1.5U" H 2550 4900 50  0001 C CNN
 F 3 "~" H 2550 4900 50  0001 C CNN
 	1    2550 4900
 	1    0    0    -1  
@@ -1528,7 +1528,7 @@ U 1 1 61A1E3E2
 P 3050 4900
 F 0 "K55" H 3050 5150 50  0000 C CNN
 F 1 "LALT" H 3050 5044 50  0000 C CNN
-F 2 "xeal_components:MX-Choc-1U" H 3050 4900 50  0001 C CNN
+F 2 "xeal_components:MX-Choc-1.5U" H 3050 4900 50  0001 C CNN
 F 3 "~" H 3050 4900 50  0001 C CNN
 	1    3050 4900
 	1    0    0    -1  
@@ -1552,7 +1552,7 @@ U 1 1 61A1E3F9
 P 3550 4900
 F 0 "K56" H 3550 5150 50  0000 C CNN
 F 1 "FN2" H 3550 5044 50  0000 C CNN
-F 2 "xeal_components:MX-Choc-1U" H 3550 4900 50  0001 C CNN
+F 2 "xeal_components:MX-Alps-Choc-2U-stabflip-pinflip" H 3550 4900 50  0001 C CNN
 F 3 "~" H 3550 4900 50  0001 C CNN
 	1    3550 4900
 	1    0    0    -1  
@@ -1576,7 +1576,7 @@ U 1 1 61A1E412
 P 4050 4900
 F 0 "K57" H 4050 5150 50  0000 C CNN
 F 1 "LSPC" H 4050 5044 50  0000 C CNN
-F 2 "xeal_components:MX-Alps-Choc-2U-no-led" H 4050 4900 50  0001 C CNN
+F 2 "xeal_components:MX-Alps-Choc-2U-stabflip-pinflip" H 4050 4900 50  0001 C CNN
 F 3 "~" H 4050 4900 50  0001 C CNN
 	1    4050 4900
 	1    0    0    -1  
@@ -1831,7 +1831,7 @@ U 1 1 61B47A22
 P 4550 4900
 F 0 "K58" H 4550 5150 50  0000 C CNN
 F 1 "RSPC" H 4550 5044 50  0000 C CNN
-F 2 "xeal_components:MX-Alps-Choc-2U-no-led" H 4550 4900 50  0001 C CNN
+F 2 "xeal_components:MX-Alps-Choc-2U-stabflip-pinflip" H 4550 4900 50  0001 C CNN
 F 3 "~" H 4550 4900 50  0001 C CNN
 	1    4550 4900
 	1    0    0    -1  
