@@ -1,4 +1,4 @@
-19648257308147229
+19652222665620992
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -84802,15 +84802,15 @@ Kailh-PG1350-1uCutout
 
 
 0
-4
-4
+0
+0
 xeal_components
 Kailh-PG1350-2uCutout
 
 
 0
-2
-2
+0
+0
 xeal_components
 Kailh-PG1350-2uCutoutFlipped
 
@@ -84881,6 +84881,20 @@ MX-Choc-2.5U-pin21
 0
 4
 2
+xeal_components
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+xeal_components
+NRF24L01Module
+
+
+0
+8
+8
 xeal_components
 SS12D00
 
