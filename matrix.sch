@@ -35,7 +35,7 @@ U 1 1 6195294A
 P 2350 2050
 F 0 "D2" V 2350 1970 50  0000 R CNN
 F 1 "D" V 2305 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 2350 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 2350 2050 50  0001 C CNN
 F 3 "~" H 2350 2050 50  0001 C CNN
 	1    2350 2050
 	0    -1   -1   0   
@@ -63,7 +63,7 @@ U 1 1 61954136
 P 2850 2050
 F 0 "D3" V 2850 1970 50  0000 R CNN
 F 1 "D" V 2805 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 2850 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 2850 2050 50  0001 C CNN
 F 3 "~" H 2850 2050 50  0001 C CNN
 	1    2850 2050
 	0    -1   -1   0   
@@ -90,7 +90,7 @@ U 1 1 6195415E
 P 3350 2050
 F 0 "D4" V 3350 1970 50  0000 R CNN
 F 1 "D" V 3305 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 3350 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 3350 2050 50  0001 C CNN
 F 3 "~" H 3350 2050 50  0001 C CNN
 	1    3350 2050
 	0    -1   -1   0   
@@ -119,7 +119,7 @@ U 1 1 6195888D
 P 3850 2050
 F 0 "D5" V 3850 1970 50  0000 R CNN
 F 1 "D" V 3805 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 3850 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 3850 2050 50  0001 C CNN
 F 3 "~" H 3850 2050 50  0001 C CNN
 	1    3850 2050
 	0    -1   -1   0   
@@ -146,7 +146,7 @@ U 1 1 619588A5
 P 4350 2050
 F 0 "D6" V 4350 1970 50  0000 R CNN
 F 1 "D" V 4305 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 4350 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 4350 2050 50  0001 C CNN
 F 3 "~" H 4350 2050 50  0001 C CNN
 	1    4350 2050
 	0    -1   -1   0   
@@ -174,7 +174,7 @@ U 1 1 619588BE
 P 4850 2050
 F 0 "D7" V 4850 1970 50  0000 R CNN
 F 1 "D" V 4805 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 4850 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 4850 2050 50  0001 C CNN
 F 3 "~" H 4850 2050 50  0001 C CNN
 	1    4850 2050
 	0    -1   -1   0   
@@ -201,7 +201,7 @@ U 1 1 619588D6
 P 5350 2050
 F 0 "D8" V 5350 1970 50  0000 R CNN
 F 1 "D" V 5305 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 5350 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 5350 2050 50  0001 C CNN
 F 3 "~" H 5350 2050 50  0001 C CNN
 	1    5350 2050
 	0    -1   -1   0   
@@ -231,7 +231,7 @@ U 1 1 6196E3C0
 P 5850 2050
 F 0 "D9" V 5850 1970 50  0000 R CNN
 F 1 "D" V 5805 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 5850 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 5850 2050 50  0001 C CNN
 F 3 "~" H 5850 2050 50  0001 C CNN
 	1    5850 2050
 	0    -1   -1   0   
@@ -258,7 +258,7 @@ U 1 1 6196E3D8
 P 6350 2050
 F 0 "D10" V 6350 1970 50  0000 R CNN
 F 1 "D" V 6305 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 6350 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 6350 2050 50  0001 C CNN
 F 3 "~" H 6350 2050 50  0001 C CNN
 	1    6350 2050
 	0    -1   -1   0   
@@ -286,7 +286,7 @@ U 1 1 6196E3F1
 P 6850 2050
 F 0 "D11" V 6850 1970 50  0000 R CNN
 F 1 "D" V 6805 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 6850 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 6850 2050 50  0001 C CNN
 F 3 "~" H 6850 2050 50  0001 C CNN
 	1    6850 2050
 	0    -1   -1   0   
@@ -313,7 +313,7 @@ U 1 1 6196E409
 P 7350 2050
 F 0 "D12" V 7350 1970 50  0000 R CNN
 F 1 "D" V 7305 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 7350 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 7350 2050 50  0001 C CNN
 F 3 "~" H 7350 2050 50  0001 C CNN
 	1    7350 2050
 	0    -1   -1   0   
@@ -342,7 +342,7 @@ U 1 1 6196E423
 P 7850 2050
 F 0 "D13" V 7850 1970 50  0000 R CNN
 F 1 "D" V 7805 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 7850 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 7850 2050 50  0001 C CNN
 F 3 "~" H 7850 2050 50  0001 C CNN
 	1    7850 2050
 	0    -1   -1   0   
@@ -373,7 +373,7 @@ U 1 1 6198FB83
 P 1850 2800
 F 0 "D14" V 1850 2720 50  0000 R CNN
 F 1 "D" V 1805 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 1850 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 1850 2800 50  0001 C CNN
 F 3 "~" H 1850 2800 50  0001 C CNN
 	1    1850 2800
 	0    -1   -1   0   
@@ -398,7 +398,7 @@ U 1 1 6198FB9B
 P 2350 2800
 F 0 "D15" V 2350 2720 50  0000 R CNN
 F 1 "D" V 2305 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 2350 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 2350 2800 50  0001 C CNN
 F 3 "~" H 2350 2800 50  0001 C CNN
 	1    2350 2800
 	0    -1   -1   0   
@@ -424,7 +424,7 @@ U 1 1 6198FBB4
 P 2850 2800
 F 0 "D16" V 2850 2720 50  0000 R CNN
 F 1 "D" V 2805 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 2850 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 2850 2800 50  0001 C CNN
 F 3 "~" H 2850 2800 50  0001 C CNN
 	1    2850 2800
 	0    -1   -1   0   
@@ -449,7 +449,7 @@ U 1 1 6198FBCC
 P 3350 2800
 F 0 "D17" V 3350 2720 50  0000 R CNN
 F 1 "D" V 3305 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 3350 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 3350 2800 50  0001 C CNN
 F 3 "~" H 3350 2800 50  0001 C CNN
 	1    3350 2800
 	0    -1   -1   0   
@@ -476,7 +476,7 @@ U 1 1 6198FBE6
 P 3850 2800
 F 0 "D18" V 3850 2720 50  0000 R CNN
 F 1 "D" V 3805 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 3850 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 3850 2800 50  0001 C CNN
 F 3 "~" H 3850 2800 50  0001 C CNN
 	1    3850 2800
 	0    -1   -1   0   
@@ -501,7 +501,7 @@ U 1 1 6198FBFE
 P 4350 2800
 F 0 "D19" V 4350 2720 50  0000 R CNN
 F 1 "D" V 4305 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 4350 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 4350 2800 50  0001 C CNN
 F 3 "~" H 4350 2800 50  0001 C CNN
 	1    4350 2800
 	0    -1   -1   0   
@@ -527,7 +527,7 @@ U 1 1 6198FC17
 P 4850 2800
 F 0 "D20" V 4850 2720 50  0000 R CNN
 F 1 "D" V 4805 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 4850 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 4850 2800 50  0001 C CNN
 F 3 "~" H 4850 2800 50  0001 C CNN
 	1    4850 2800
 	0    -1   -1   0   
@@ -552,7 +552,7 @@ U 1 1 6198FC2F
 P 5350 2800
 F 0 "D21" V 5350 2720 50  0000 R CNN
 F 1 "D" V 5305 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 5350 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 5350 2800 50  0001 C CNN
 F 3 "~" H 5350 2800 50  0001 C CNN
 	1    5350 2800
 	0    -1   -1   0   
@@ -580,7 +580,7 @@ U 1 1 6198FC4A
 P 5850 2800
 F 0 "D22" V 5850 2720 50  0000 R CNN
 F 1 "D" V 5805 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 5850 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 5850 2800 50  0001 C CNN
 F 3 "~" H 5850 2800 50  0001 C CNN
 	1    5850 2800
 	0    -1   -1   0   
@@ -605,7 +605,7 @@ U 1 1 6198FC62
 P 6350 2800
 F 0 "D23" V 6350 2720 50  0000 R CNN
 F 1 "D" V 6305 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 6350 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 6350 2800 50  0001 C CNN
 F 3 "~" H 6350 2800 50  0001 C CNN
 	1    6350 2800
 	0    -1   -1   0   
@@ -631,7 +631,7 @@ U 1 1 6198FC7B
 P 6850 2800
 F 0 "D24" V 6850 2720 50  0000 R CNN
 F 1 "D" V 6805 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 6850 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 6850 2800 50  0001 C CNN
 F 3 "~" H 6850 2800 50  0001 C CNN
 	1    6850 2800
 	0    -1   -1   0   
@@ -656,7 +656,7 @@ U 1 1 6198FC93
 P 7350 2800
 F 0 "D25" V 7350 2720 50  0000 R CNN
 F 1 "D" V 7305 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 7350 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 7350 2800 50  0001 C CNN
 F 3 "~" H 7350 2800 50  0001 C CNN
 	1    7350 2800
 	0    -1   -1   0   
@@ -683,7 +683,7 @@ U 1 1 6198FCAD
 P 7850 2800
 F 0 "D26" V 7850 2720 50  0000 R CNN
 F 1 "D" V 7805 2720 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 7850 2800 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 7850 2800 50  0001 C CNN
 F 3 "~" H 7850 2800 50  0001 C CNN
 	1    7850 2800
 	0    -1   -1   0   
@@ -738,7 +738,7 @@ U 1 1 619B9484
 P 1850 3550
 F 0 "D27" V 1850 3470 50  0000 R CNN
 F 1 "D" V 1805 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 1850 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 1850 3550 50  0001 C CNN
 F 3 "~" H 1850 3550 50  0001 C CNN
 	1    1850 3550
 	0    -1   -1   0   
@@ -752,7 +752,7 @@ U 1 1 619B9491
 P 2050 3400
 F 0 "K27" H 2050 3650 50  0000 C CNN
 F 1 "CAPS" H 2050 3544 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-2u-NoLED" H 2050 3400 50  0001 C CNN
+F 2 "xeal_components:Kailh-PG1350-2u-NoLED" H 2050 3400 50  0001 C CNN
 F 3 "~" H 2050 3400 50  0001 C CNN
 	1    2050 3400
 	1    0    0    -1  
@@ -763,7 +763,7 @@ U 1 1 619B949B
 P 2350 3550
 F 0 "D28" V 2350 3470 50  0000 R CNN
 F 1 "D" V 2305 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 2350 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 2350 3550 50  0001 C CNN
 F 3 "~" H 2350 3550 50  0001 C CNN
 	1    2350 3550
 	0    -1   -1   0   
@@ -789,7 +789,7 @@ U 1 1 619B94B3
 P 2850 3550
 F 0 "D29" V 2850 3470 50  0000 R CNN
 F 1 "D" V 2805 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 2850 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 2850 3550 50  0001 C CNN
 F 3 "~" H 2850 3550 50  0001 C CNN
 	1    2850 3550
 	0    -1   -1   0   
@@ -814,7 +814,7 @@ U 1 1 619B94CA
 P 3350 3550
 F 0 "D30" V 3350 3470 50  0000 R CNN
 F 1 "D" V 3305 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 3350 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 3350 3550 50  0001 C CNN
 F 3 "~" H 3350 3550 50  0001 C CNN
 	1    3350 3550
 	0    -1   -1   0   
@@ -841,7 +841,7 @@ U 1 1 619B94E3
 P 3850 3550
 F 0 "D31" V 3850 3470 50  0000 R CNN
 F 1 "D" V 3805 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 3850 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 3850 3550 50  0001 C CNN
 F 3 "~" H 3850 3550 50  0001 C CNN
 	1    3850 3550
 	0    -1   -1   0   
@@ -866,7 +866,7 @@ U 1 1 619B94FA
 P 4350 3550
 F 0 "D32" V 4350 3470 50  0000 R CNN
 F 1 "D" V 4305 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 4350 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 4350 3550 50  0001 C CNN
 F 3 "~" H 4350 3550 50  0001 C CNN
 	1    4350 3550
 	0    -1   -1   0   
@@ -892,7 +892,7 @@ U 1 1 619B9512
 P 4850 3550
 F 0 "D33" V 4850 3470 50  0000 R CNN
 F 1 "D" V 4805 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 4850 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 4850 3550 50  0001 C CNN
 F 3 "~" H 4850 3550 50  0001 C CNN
 	1    4850 3550
 	0    -1   -1   0   
@@ -917,7 +917,7 @@ U 1 1 619B9529
 P 5350 3550
 F 0 "D34" V 5350 3470 50  0000 R CNN
 F 1 "D" V 5305 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 5350 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 5350 3550 50  0001 C CNN
 F 3 "~" H 5350 3550 50  0001 C CNN
 	1    5350 3550
 	0    -1   -1   0   
@@ -945,7 +945,7 @@ U 1 1 619B9543
 P 5850 3550
 F 0 "D35" V 5850 3470 50  0000 R CNN
 F 1 "D" V 5805 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 5850 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 5850 3550 50  0001 C CNN
 F 3 "~" H 5850 3550 50  0001 C CNN
 	1    5850 3550
 	0    -1   -1   0   
@@ -970,7 +970,7 @@ U 1 1 619B955A
 P 6350 3550
 F 0 "D36" V 6350 3470 50  0000 R CNN
 F 1 "D" V 6305 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 6350 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 6350 3550 50  0001 C CNN
 F 3 "~" H 6350 3550 50  0001 C CNN
 	1    6350 3550
 	0    -1   -1   0   
@@ -996,7 +996,7 @@ U 1 1 619B9572
 P 6850 3550
 F 0 "D37" V 6850 3470 50  0000 R CNN
 F 1 "D" V 6805 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 6850 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 6850 3550 50  0001 C CNN
 F 3 "~" H 6850 3550 50  0001 C CNN
 	1    6850 3550
 	0    -1   -1   0   
@@ -1021,7 +1021,7 @@ U 1 1 619B9589
 P 7350 3550
 F 0 "D38" V 7350 3470 50  0000 R CNN
 F 1 "D" V 7305 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 7350 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 7350 3550 50  0001 C CNN
 F 3 "~" H 7350 3550 50  0001 C CNN
 	1    7350 3550
 	0    -1   -1   0   
@@ -1048,7 +1048,7 @@ U 1 1 619B95A2
 P 7850 3550
 F 0 "D39" V 7850 3470 50  0000 R CNN
 F 1 "D" V 7805 3470 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 7850 3550 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 7850 3550 50  0001 C CNN
 F 3 "~" H 7850 3550 50  0001 C CNN
 	1    7850 3550
 	0    -1   -1   0   
@@ -1060,7 +1060,7 @@ U 1 1 619B95AF
 P 8050 3400
 F 0 "K39" H 8050 3650 50  0000 C CNN
 F 1 "ENTER" H 8050 3544 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-2u-NoLED" H 8050 3400 50  0001 C CNN
+F 2 "xeal_components:Kailh-PG1350-2u-NoLED" H 8050 3400 50  0001 C CNN
 F 3 "~" H 8050 3400 50  0001 C CNN
 	1    8050 3400
 	1    0    0    -1  
@@ -1077,7 +1077,7 @@ U 1 1 619B95EE
 P 1850 4300
 F 0 "D40" V 1850 4220 50  0000 R CNN
 F 1 "D" V 1805 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 1850 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 1850 4300 50  0001 C CNN
 F 3 "~" H 1850 4300 50  0001 C CNN
 	1    1850 4300
 	0    -1   -1   0   
@@ -1102,7 +1102,7 @@ U 1 1 619B9605
 P 2350 4300
 F 0 "D41" V 2350 4220 50  0000 R CNN
 F 1 "D" V 2305 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 2350 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 2350 4300 50  0001 C CNN
 F 3 "~" H 2350 4300 50  0001 C CNN
 	1    2350 4300
 	0    -1   -1   0   
@@ -1128,7 +1128,7 @@ U 1 1 619B961D
 P 2850 4300
 F 0 "D42" V 2850 4220 50  0000 R CNN
 F 1 "D" V 2805 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 2850 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 2850 4300 50  0001 C CNN
 F 3 "~" H 2850 4300 50  0001 C CNN
 	1    2850 4300
 	0    -1   -1   0   
@@ -1153,7 +1153,7 @@ U 1 1 619B9634
 P 3350 4300
 F 0 "D43" V 3350 4220 50  0000 R CNN
 F 1 "D" V 3305 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 3350 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 3350 4300 50  0001 C CNN
 F 3 "~" H 3350 4300 50  0001 C CNN
 	1    3350 4300
 	0    -1   -1   0   
@@ -1180,7 +1180,7 @@ U 1 1 619B964D
 P 3850 4300
 F 0 "D44" V 3850 4220 50  0000 R CNN
 F 1 "D" V 3805 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 3850 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 3850 4300 50  0001 C CNN
 F 3 "~" H 3850 4300 50  0001 C CNN
 	1    3850 4300
 	0    -1   -1   0   
@@ -1205,7 +1205,7 @@ U 1 1 619B9664
 P 4350 4300
 F 0 "D45" V 4350 4220 50  0000 R CNN
 F 1 "D" V 4305 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 4350 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 4350 4300 50  0001 C CNN
 F 3 "~" H 4350 4300 50  0001 C CNN
 	1    4350 4300
 	0    -1   -1   0   
@@ -1230,7 +1230,7 @@ U 1 1 619B967C
 P 4850 4300
 F 0 "D46" V 4850 4220 50  0000 R CNN
 F 1 "D" V 4805 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 4850 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 4850 4300 50  0001 C CNN
 F 3 "~" H 4850 4300 50  0001 C CNN
 	1    4850 4300
 	0    -1   -1   0   
@@ -1255,7 +1255,7 @@ U 1 1 619B9693
 P 5350 4300
 F 0 "D47" V 5350 4220 50  0000 R CNN
 F 1 "D" V 5305 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 5350 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 5350 4300 50  0001 C CNN
 F 3 "~" H 5350 4300 50  0001 C CNN
 	1    5350 4300
 	0    -1   -1   0   
@@ -1283,7 +1283,7 @@ U 1 1 619B96AD
 P 5850 4300
 F 0 "D48" V 5850 4220 50  0000 R CNN
 F 1 "D" V 5805 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 5850 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 5850 4300 50  0001 C CNN
 F 3 "~" H 5850 4300 50  0001 C CNN
 	1    5850 4300
 	0    -1   -1   0   
@@ -1307,7 +1307,7 @@ U 1 1 619B96C4
 P 6350 4300
 F 0 "D49" V 6350 4220 50  0000 R CNN
 F 1 "D" V 6305 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 6350 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 6350 4300 50  0001 C CNN
 F 3 "~" H 6350 4300 50  0001 C CNN
 	1    6350 4300
 	0    -1   -1   0   
@@ -1333,7 +1333,7 @@ U 1 1 619B96DC
 P 6850 4300
 F 0 "D50" V 6850 4220 50  0000 R CNN
 F 1 "D" V 6805 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 6850 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 6850 4300 50  0001 C CNN
 F 3 "~" H 6850 4300 50  0001 C CNN
 	1    6850 4300
 	0    -1   -1   0   
@@ -1358,7 +1358,7 @@ U 1 1 619B96F3
 P 7350 4300
 F 0 "D51" V 7350 4220 50  0000 R CNN
 F 1 "D" V 7305 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 7350 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 7350 4300 50  0001 C CNN
 F 3 "~" H 7350 4300 50  0001 C CNN
 	1    7350 4300
 	0    -1   -1   0   
@@ -1385,7 +1385,7 @@ U 1 1 619B970C
 P 7850 4300
 F 0 "D52" V 7850 4220 50  0000 R CNN
 F 1 "D" V 7805 4220 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 7850 4300 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 7850 4300 50  0001 C CNN
 F 3 "~" H 7850 4300 50  0001 C CNN
 	1    7850 4300
 	0    -1   -1   0   
@@ -1466,7 +1466,7 @@ U 1 1 61A1E396
 P 1850 5050
 F 0 "D53" V 1850 4970 50  0000 R CNN
 F 1 "D" V 1805 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 1850 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 1850 5050 50  0001 C CNN
 F 3 "~" H 1850 5050 50  0001 C CNN
 	1    1850 5050
 	0    -1   -1   0   
@@ -1490,7 +1490,7 @@ U 1 1 61A1E3BD
 P 2350 5050
 F 0 "D54" V 2350 4970 50  0000 R CNN
 F 1 "D" V 2305 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 2350 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 2350 5050 50  0001 C CNN
 F 3 "~" H 2350 5050 50  0001 C CNN
 	1    2350 5050
 	0    -1   -1   0   
@@ -1515,7 +1515,7 @@ U 1 1 61A1E3D5
 P 2850 5050
 F 0 "D55" V 2850 4970 50  0000 R CNN
 F 1 "D" V 2805 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 2850 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 2850 5050 50  0001 C CNN
 F 3 "~" H 2850 5050 50  0001 C CNN
 	1    2850 5050
 	0    -1   -1   0   
@@ -1539,7 +1539,7 @@ U 1 1 61A1E3EC
 P 3350 5050
 F 0 "D56" V 3350 4970 50  0000 R CNN
 F 1 "D" V 3305 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 3350 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 3350 5050 50  0001 C CNN
 F 3 "~" H 3350 5050 50  0001 C CNN
 	1    3350 5050
 	0    -1   -1   0   
@@ -1552,7 +1552,7 @@ U 1 1 61A1E3F9
 P 3550 4900
 F 0 "K56" H 3550 5150 50  0000 C CNN
 F 1 "FN2" H 3550 5044 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-2u-NoLED" H 3550 4900 50  0001 C CNN
+F 2 "xeal_components:Kailh-PG1350-1.5u-NoLED" H 3550 4900 50  0001 C CNN
 F 3 "~" H 3550 4900 50  0001 C CNN
 	1    3550 4900
 	1    0    0    -1  
@@ -1565,7 +1565,7 @@ U 1 1 61A1E405
 P 3850 5050
 F 0 "D57" V 3850 4970 50  0000 R CNN
 F 1 "D" V 3805 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 3850 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 3850 5050 50  0001 C CNN
 F 3 "~" H 3850 5050 50  0001 C CNN
 	1    3850 5050
 	0    -1   -1   0   
@@ -1576,7 +1576,7 @@ U 1 1 61A1E412
 P 4050 4900
 F 0 "K57" H 4050 5150 50  0000 C CNN
 F 1 "LSPC" H 4050 5044 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-2u-NoLED" H 4050 4900 50  0001 C CNN
+F 2 "xeal_components:Kailh-PG1350-2.5u-NoLED" H 4050 4900 50  0001 C CNN
 F 3 "~" H 4050 4900 50  0001 C CNN
 	1    4050 4900
 	1    0    0    -1  
@@ -1587,7 +1587,7 @@ U 1 1 61A1E434
 P 4850 5050
 F 0 "D59" V 4850 4970 50  0000 R CNN
 F 1 "D" V 4805 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 4850 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 4850 5050 50  0001 C CNN
 F 3 "~" H 4850 5050 50  0001 C CNN
 	1    4850 5050
 	0    -1   -1   0   
@@ -1611,7 +1611,7 @@ U 1 1 61A1E44B
 P 5350 5050
 F 0 "D60" V 5350 4970 50  0000 R CNN
 F 1 "D" V 5305 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 5350 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 5350 5050 50  0001 C CNN
 F 3 "~" H 5350 5050 50  0001 C CNN
 	1    5350 5050
 	0    -1   -1   0   
@@ -1636,7 +1636,7 @@ U 1 1 61A1E47C
 P 6350 5050
 F 0 "D62" V 6350 4970 50  0000 R CNN
 F 1 "D" V 6305 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 6350 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 6350 5050 50  0001 C CNN
 F 3 "~" H 6350 5050 50  0001 C CNN
 	1    6350 5050
 	0    -1   -1   0   
@@ -1661,7 +1661,7 @@ U 1 1 61A1E494
 P 6850 5050
 F 0 "D63" V 6850 4970 50  0000 R CNN
 F 1 "D" V 6805 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 6850 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 6850 5050 50  0001 C CNN
 F 3 "~" H 6850 5050 50  0001 C CNN
 	1    6850 5050
 	0    -1   -1   0   
@@ -1685,7 +1685,7 @@ U 1 1 61A1E4AB
 P 7350 5050
 F 0 "D64" V 7350 4970 50  0000 R CNN
 F 1 "D" V 7305 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 7350 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 7350 5050 50  0001 C CNN
 F 3 "~" H 7350 5050 50  0001 C CNN
 	1    7350 5050
 	0    -1   -1   0   
@@ -1711,7 +1711,7 @@ U 1 1 61A1E4C4
 P 7850 5050
 F 0 "D65" V 7850 4970 50  0000 R CNN
 F 1 "D" V 7805 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 7850 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 7850 5050 50  0001 C CNN
 F 3 "~" H 7850 5050 50  0001 C CNN
 	1    7850 5050
 	0    -1   -1   0   
@@ -1722,7 +1722,7 @@ U 1 1 61A1E4D1
 P 8050 4900
 F 0 "K65" H 8050 5150 50  0000 C CNN
 F 1 "BKSPC" H 8050 5044 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-2u-NoLED" H 8050 4900 50  0001 C CNN
+F 2 "xeal_components:Kailh-PG1350-2u-NoLED" H 8050 4900 50  0001 C CNN
 F 3 "~" H 8050 4900 50  0001 C CNN
 	1    8050 4900
 	1    0    0    -1  
@@ -1790,7 +1790,7 @@ U 1 1 61B42068
 P 5850 5050
 F 0 "D61" V 5850 4970 50  0000 R CNN
 F 1 "D" V 5805 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 5850 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 5850 5050 50  0001 C CNN
 F 3 "~" H 5850 5050 50  0001 C CNN
 	1    5850 5050
 	0    -1   -1   0   
@@ -1818,7 +1818,7 @@ U 1 1 61B47A17
 P 4350 5050
 F 0 "D58" V 4350 4970 50  0000 R CNN
 F 1 "D" V 4305 4970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 4350 5050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 4350 5050 50  0001 C CNN
 F 3 "~" H 4350 5050 50  0001 C CNN
 	1    4350 5050
 	0    -1   -1   0   
@@ -1831,7 +1831,7 @@ U 1 1 61B47A22
 P 4550 4900
 F 0 "K58" H 4550 5150 50  0000 C CNN
 F 1 "RSPC" H 4550 5044 50  0000 C CNN
-F 2 "Keebio-Parts:Kailh-PG1350-2u-NoLED" H 4550 4900 50  0001 C CNN
+F 2 "xeal_components:Kailh-PG1350-2u-NoLED" H 4550 4900 50  0001 C CNN
 F 3 "~" H 4550 4900 50  0001 C CNN
 	1    4550 4900
 	1    0    0    -1  
@@ -1846,7 +1846,7 @@ U 1 1 6194C903
 P 1850 2050
 F 0 "D1" V 1850 1970 50  0000 R CNN
 F 1 "D" V 1805 1970 50  0001 R CNN
-F 2 "Keebio-Parts:Diode-dual" H 1850 2050 50  0001 C CNN
+F 2 "xeal_components:Diode-dual" H 1850 2050 50  0001 C CNN
 F 3 "~" H 1850 2050 50  0001 C CNN
 	1    1850 2050
 	0    -1   -1   0   
