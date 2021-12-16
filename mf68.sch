@@ -19,7 +19,7 @@ U 6194AF7C
 F0 "matrix" 50
 F1 "matrix.sch" 50
 $EndSheet
-Text GLabel 1450 2350 0    50   Input ~ 0
+Text GLabel 2850 3250 2    50   Input ~ 0
 row1
 Text GLabel 1450 2750 0    50   Input ~ 0
 row2
@@ -27,13 +27,13 @@ Text GLabel 1450 3450 0    50   Input ~ 0
 row3
 Text GLabel 1450 3150 0    50   Input ~ 0
 row4
-Text GLabel 2850 2850 2    50   Input ~ 0
-col0
-Text GLabel 2850 2950 2    50   Input ~ 0
-col1
-Text GLabel 2850 3050 2    50   Input ~ 0
-col2
 Text GLabel 2850 3150 2    50   Input ~ 0
+col0
+Text GLabel 2850 3050 2    50   Input ~ 0
+col1
+Text GLabel 2850 2950 2    50   Input ~ 0
+col2
+Text GLabel 2850 2850 2    50   Input ~ 0
 col3
 Text GLabel 1450 2450 0    50   Input ~ 0
 col7
@@ -54,9 +54,9 @@ Text GLabel 1450 2850 0    50   Input ~ 0
 col8
 Text GLabel 2850 2750 2    50   Input ~ 0
 row0
-Text GLabel 2850 3250 2    50   Input ~ 0
-col4
 Text GLabel 2850 3450 2    50   Input ~ 0
+col4
+Text GLabel 1450 2350 0    50   Input ~ 0
 col6
 Text GLabel 2850 3350 2    50   Input ~ 0
 col5
