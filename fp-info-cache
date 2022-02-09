@@ -1,4 +1,4 @@
-19652222665620992
+19640084694192537
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -84791,95 +84791,46 @@ nice_nano
 27
 27
 xeal_components
-D_DO-34_SOD68_P10.16mm_Horizontal_NoK
-Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Horizontal pin pitch 10.16mm  length 3.04mm diameter 1.6mm
+Diode-dual
+
+
 0
+10
 2
-2
 xeal_components
-Kailh-PG1350-1uCutout
-
-
-0
-0
-0
-xeal_components
-Kailh-PG1350-2uCutout
-
-
-0
-0
-0
-xeal_components
-Kailh-PG1350-2uCutoutFlipped
+Kailh-PG1350-1.5u-NoLED
 
 
 0
 2
 2
 xeal_components
-MX-Alps-Choc-2U-no-led
+Kailh-PG1350-1.25u-NoLED
 
 
 0
-4
+2
 2
 xeal_components
-MX-Alps-Choc-2U-no-led-stabflip
+Kailh-PG1350-1u-NoLED
 
 
 0
-4
+2
 2
 xeal_components
-MX-Alps-Choc-2U-pin-flip
+Kailh-PG1350-2.5u-NoLED
 
 
 0
-4
+2
 2
 xeal_components
-MX-Alps-Choc-2U-stabflip-pinflip
+Kailh-PG1350-2u-NoLED
 
 
 0
-4
 2
-xeal_components
-MX-Choc-1.5U
-
-
-0
-4
-2
-xeal_components
-MX-Choc-1U
-
-
-0
-4
-2
-xeal_components
-MX-Choc-1U-pin-flip
-
-
-0
-4
-2
-xeal_components
-MX-Choc-2.5U-pin12
-
-
-0
-4
-2
-xeal_components
-MX-Choc-2.5U-pin21
-
-
-0
-4
 2
 xeal_components
 MountingHole_2.2mm_M2
